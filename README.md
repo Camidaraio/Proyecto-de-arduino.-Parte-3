@@ -13,7 +13,7 @@
 
 ------------
 
-imagen de la parte 3
+[![Captura-de-pantalla-2023-10-22-203422.png](https://i.postimg.cc/8CZbgD0v/Captura-de-pantalla-2023-10-22-203422.png)](https://postimg.cc/wtsNhKHx)
 
 ####  Descripcion
 
